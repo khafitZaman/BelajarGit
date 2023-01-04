@@ -1,8 +1,5 @@
 Nama  : Khafit Badrus Zaman
 Stack : Backend
-<<<<<<< HEAD
 Hobi  : Nonton video
-
-=======
 Deskripsi : Suka programing karena seru :)
->>>>>>> description
+sekian
